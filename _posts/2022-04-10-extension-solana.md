@@ -36,9 +36,9 @@ MemoTransfer,
 }
 </code></pre>
 
-Further will probably be added an the up to date list can be found here : https://github.com/solana-labs/solana-program-library/blob/master/token/program-2022/src/extension/mod.rs#L583
+Further will probably be added an the up to date list can be found here : [source](https://github.com/solana-labs/solana-program-library/blob/master/token/program-2022/src/extension/mod.rs#L583)
 
-Anyone can create extensions, not so long ago Vitalik wrote a blog post about soul bound NFT https://vitalik.ca/general/2022/01/26/soulbound.html and someone created an implementation of it : https://github.com/solana-labs/solana-program-library/pull/2912
+Anyone can create extensions, not so long ago Vitalik wrote a blog post about soul bound NFT [here](https://vitalik.ca/general/2022/01/26/soulbound.html) and someone created the [implementation](https://github.com/solana-labs/solana-program-library/pull/2912)
 
 Conclusion
 
