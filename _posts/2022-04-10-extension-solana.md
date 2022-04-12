@@ -13,6 +13,7 @@ We have for example the extension “TransferFee” that will on each transfer i
 There are a few extensions right now but I suspect they will start growing more as people see the power of these features and as the Solana ecosystem grows and thus requires more and more use cases.
 Here is the list of extension as of writing this post :
 
+<pre><code>
 pub enum ExtensionType {
 /// Used as padding if the account size would otherwise be 355, same as a multisig
 Uninitialized,
@@ -33,6 +34,7 @@ ImmutableOwner,
 /// Require inbound transfers to have memo
 MemoTransfer,
 }
+</code></pre>
 
 Further will probably be added an the up to date list can be found here : https://github.com/solana-labs/solana-program-library/blob/master/token/program-2022/src/extension/mod.rs#L583
 
